@@ -1,0 +1,14 @@
+.storybook
+.eslintignore
+.eslintrc
+.gitignore
+.prettierignore
+.prettierrc
+.vscode
+.github
+.travis.yml
+__tests__/
+src/
+stories/
+docs/
+package-lock.json

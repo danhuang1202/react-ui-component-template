@@ -1,0 +1,9 @@
+coverage/
+lib/
+es/
+type/**/*.d.ts
+docs/
+node_modules/
+**/.DS_Store
+docs/
+css/
